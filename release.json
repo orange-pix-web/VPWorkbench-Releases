@@ -2,24 +2,24 @@
   "schemaVersion": 1,
   "channel": "stable",
   "available": true,
-  "version": "0.3.2",
-  "tag": "v0.3.2",
-  "publishedAt": "2026-10-15T14:59:26Z",
-  "releasePage": "https://github.com/orange-pix-web/VPWorkbench-Releases/releases/tag/v0.3.2",
+  "version": "0.3.4",
+  "tag": "v0.3.4",
+  "publishedAt": "2026-10-16T15:16:21Z",
+  "releasePage": "https://github.com/orange-pix-web/VPWorkbench-Releases/releases/tag/v0.3.4",
   "websiteUrl": "",
   "notes": [
-    "视频处理工作台 v0.3.2 正式版本"
+    "视频处理工作台 v0.3.4 正式版本"
   ],
   "assets": {
     "windows-x64-installer": {
-      "url": "https://github.com/orange-pix-web/VPWorkbench-Releases/releases/download/v0.3.2/VPWorkbench-Setup-0.3.2-x64.exe",
-      "sha256": "E15A2505C81EA014FE17EAB2F412AC6ADA7645961A5A11332D8C0A0D9543E4FA",
-      "size": 7871788
+      "url": "https://github.com/orange-pix-web/VPWorkbench-Releases/releases/download/v0.3.4/VPWorkbench-Setup-0.3.4-x64.exe",
+      "sha256": "4D63A51873CEE639A3264C198D514F19CF4B8E69C00281D3EF818A95672F8D45",
+      "size": 53780121
     },
     "windows-x64-portable": {
-      "url": "https://github.com/orange-pix-web/VPWorkbench-Releases/releases/download/v0.3.2/VPWorkbench-0.3.2-win64.zip",
-      "sha256": "935E69D0018FCAB01BCACEA21C18F33638CA006796A2B689E0E5A196D13FF5CC",
-      "size": 10079455
+      "url": "https://github.com/orange-pix-web/VPWorkbench-Releases/releases/download/v0.3.4/VPWorkbench-0.3.4-win64.zip",
+      "sha256": "5889597B1C0EDBA4D433CE89EE021E257BEDB1000D97D9A4C7E190BDC95156B2",
+      "size": 74334748
     }
   }
 }
